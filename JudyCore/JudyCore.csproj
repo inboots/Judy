@@ -45,7 +45,6 @@
     <Compile Include="Http.cs" />
     <Compile Include="LitJson.cs" />
     <Compile Include="Model\Model.cs" />
-    <Compile Include="MSSQLHelper.cs" />
     <Compile Include="PHPBusiness.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
